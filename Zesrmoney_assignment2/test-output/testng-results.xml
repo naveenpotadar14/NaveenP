@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-29T13:43:19 IST" name="Default suite" finished-at="2021-01-29T13:45:08 IST" duration-ms="108801">
+    <groups>
+    </groups>
+    <test started-at="2021-01-29T13:43:19 IST" name="Default test" finished-at="2021-01-29T13:45:08 IST" duration-ms="108801">
+      <class name="com.qa.test.WritePostTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.test.WritePostTest@4445629]" started-at="2021-01-29T13:43:19 IST" name="setup" finished-at="2021-01-29T13:44:05 IST" duration-ms="45622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="writePost()[pri:0, instance:com.qa.test.WritePostTest@4445629]" started-at="2021-01-29T13:44:05 IST" name="writePost" finished-at="2021-01-29T13:45:07 IST" duration-ms="62333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writePost -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.test.WritePostTest@4445629]" started-at="2021-01-29T13:45:07 IST" name="closeBrowser" finished-at="2021-01-29T13:45:08 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.test.WritePostTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
